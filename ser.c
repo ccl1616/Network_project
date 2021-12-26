@@ -146,13 +146,15 @@ Start Next Round\
 	return 0;
 }
 
+// return a random number ranged from 0 to RANGE-1
 int rand_gen()
 {
     time_t t;
     srand((unsigned) time(&t));
-    return rand() % RANGE;
+    return rand() % RANGE; // RANGE 1000
 }
 
+// update upper_bound and lower_bound by a(client input)
 void update_range(int a)
 {
     if(a < cur_rand && a > lower_bound) lower_bound = a;
