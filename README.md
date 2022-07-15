@@ -27,7 +27,7 @@ See my project report in [project_report.pdf](https://github.com/ccl1616/Network
 Here are some notes for files in the /Document folder
 - [Socket_tutorial.pdf](https://github.com/ccl1616/Network_project/blob/main/Document/Socket_tutorial.pdf) : Environment setting and Concept for Socket programming
 - [Wireshark_tutorial.pdf](https://github.com/ccl1616/Network_project/blob/main/Document/Wireshark_tutorial.pdf) : tutorial for Wireshark
-- [project_report.pdf](https://) : my project report, include a full number guessing process
+- [project_report.pdf](https://github.com/ccl1616/Network_project/blob/main/Document/project_report.pdf) : my project report, include a full number guessing process
 - [spec_2021.pdf](https://github.com/ccl1616/Network_project/blob/main/Document/spec_2021.pdf) : the formal specification of this project
 - [windows_mingw.pdf](https://github.com/ccl1616/Network_project/blob/main/Document/windows_mingw.pdf) : tutorial of environment setup for mingw
 - [wireshark_loopback_adapter.pdf](https://github.com/ccl1616/Network_project/blob/main/Document/wireshark_loopback_adapter.pdf) : tutorial of install "loopback adaptor" for wireshark on Windows.
