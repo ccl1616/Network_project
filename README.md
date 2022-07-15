@@ -32,3 +32,6 @@ Here are some notes for files in the /Document folder
 - [windows_mingw.pdf](https://github.com/ccl1616/Network_project/blob/main/Document/windows_mingw.pdf) : tutorial of environment setup for mingw
 - [wireshark_loopback_adapter.pdf](https://github.com/ccl1616/Network_project/blob/main/Document/wireshark_loopback_adapter.pdf) : tutorial of install "loopback adaptor" for wireshark on Windows.
 
+### Screenshot
+client of the left, server on the right
+![](https://i.imgur.com/Q8KzcdE.png)
